@@ -1,6 +1,6 @@
-<h1>Hi, I'm Alex Bagnall! , <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</aa></h1>
+<h1>Hi, I'm Alexander Bagnall! , <a href="https://www.linkedin.com/in/joshmadakor/">IT/Cybersecurity Professional</aa></h1>
 
-<h2>👨‍💻 I.T. & Cybersecurity Projects:</h2>
+<h2>👨‍💻 Linux Exercises:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
