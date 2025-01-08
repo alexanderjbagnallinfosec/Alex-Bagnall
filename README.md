@@ -21,6 +21,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+[linkedin]
+
 [linkedin]: https://linkedin.com/in/alexanderjbagnall
 
 <!--
