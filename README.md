@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexander Bagnall! , <a href="https://www.linkedin.com/in/joshmadakor/">IT/Cybersecurity Professional</aa></h1>
+<h1>Hi, I'm Alexander Bagnall , <a href="https://www.linkedin.com/in/joshmadakor/">I'm an IT/Cybersecurity Professional</aa></h1>
 
 <h2>👨‍💻 Linux Exercises:</h2>
 
